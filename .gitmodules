@@ -6,3 +6,6 @@
 	path = l10n_gt_extra
 	url = https://github.com/rocketgithub/l10n_gt_extra.git
 	branch = 11.0
+[submodule "puntonaranja"]
+	path = puntonaranja
+	url = git@github.com:rocketgithub/puntonaranja.git
